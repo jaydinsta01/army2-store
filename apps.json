@@ -1,0 +1,27 @@
+{
+  "name": "Army 2 Store",
+  "identifier": "com.gonvl.army2.source",
+  "sourceURL": "https://jaydinsta01.github.io/army2-store/apps.json",
+  "apps": [
+    {
+      "name": "Army 2",
+      "bundleIdentifier": "com.gonvl.army2",
+      "developerName": "gonvl",
+      "subtitle": "Mobi Army 2 Private Server",
+      "localizedDescription": "Mobi Army 2 - Server Test",
+      "iconURL": "https://jaydinsta01.github.io/army2-store/icon.png",
+      "tintColor": "64B9DC",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "2.4.1",
+          "date": "2026-04-05",
+          "localizedDescription": "Private server patch",
+          "downloadURL": "https://jaydinsta01.github.io/army2-store/Army2Test.ipa",
+          "size": 34000000
+        }
+      ]
+    }
+  ],
+  "news": []
+}
